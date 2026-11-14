@@ -1,0 +1,5 @@
+year,month,metric_value,type
+2017,11,1194882.80,max_gross_payment
+2017,2,110.78,max_mom_growth_pct
+2017,1,138488.04,min_gross_payment
+2017,12,-26.49,min_mom_growth_pct
