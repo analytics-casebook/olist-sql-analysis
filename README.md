@@ -8,7 +8,7 @@ The business queries were executed in MySQL 8.0.46 and their outputs cross-check
 
 
 
-\[View all question results and screenshots](screenshots/README.md)
+[View all question results and screenshots](screenshots/README.md)
 
 
 
